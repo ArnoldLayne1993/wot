@@ -47,5 +47,5 @@ public class A {
         System.out.println("Сумма дробных чисел равна = " + summ);
         System.out.println("Количество слов =" +word);
 
-}
+}vsdppsdkasdkfpsdkfsdpf
 }
